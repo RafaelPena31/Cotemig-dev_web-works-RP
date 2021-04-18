@@ -1,0 +1,13 @@
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_CALC\POO_CALC\bin\Debug\netcoreapp3.1\POO_CALC.exe
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_CALC\POO_CALC\bin\Debug\netcoreapp3.1\POO_CALC.deps.json
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_CALC\POO_CALC\bin\Debug\netcoreapp3.1\POO_CALC.runtimeconfig.json
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_CALC\POO_CALC\bin\Debug\netcoreapp3.1\POO_CALC.runtimeconfig.dev.json
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_CALC\POO_CALC\bin\Debug\netcoreapp3.1\POO_CALC.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_CALC\POO_CALC\bin\Debug\netcoreapp3.1\POO_CALC.pdb
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_CALC\POO_CALC\obj\Debug\netcoreapp3.1\POO_CALC.csprojAssemblyReference.cache
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_CALC\POO_CALC\obj\Debug\netcoreapp3.1\POO_CALC.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_CALC\POO_CALC\obj\Debug\netcoreapp3.1\POO_CALC.AssemblyInfo.cs
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_CALC\POO_CALC\obj\Debug\netcoreapp3.1\POO_CALC.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_CALC\POO_CALC\obj\Debug\netcoreapp3.1\POO_CALC.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_CALC\POO_CALC\obj\Debug\netcoreapp3.1\POO_CALC.pdb
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_CALC\POO_CALC\obj\Debug\netcoreapp3.1\POO_CALC.genruntimeconfig.cache

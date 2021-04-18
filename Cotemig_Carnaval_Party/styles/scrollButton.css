@@ -1,0 +1,33 @@
+#scrollButtonContainer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#scrollButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  color: #fff;
+  background-color: #22c45550;
+  border-style: solid;
+  border-width: 3px;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #22c455,
+    0 0 80px #22c455, 0 0 90px #22c455, 0 0 100px #22c455, 0 0 150px #22c455;
+  text-align: center;
+  font-size: 30pt;
+  margin-bottom: 3%;
+  padding: 10px;
+  transition: 0.5s;
+}
+
+#scrollButton:hover {
+  text-decoration: none;
+  box-shadow: 0 0 5px #ffffff50, 0 0 10px #ffffff50, 0 0 20px #ffffff50,
+    0 0 40px #face2c50, 0 0 80px #face2c50, 0 0 90px #face2c50,
+    0 0 100px #face2c50, 0 0 150px #face2c50;
+}

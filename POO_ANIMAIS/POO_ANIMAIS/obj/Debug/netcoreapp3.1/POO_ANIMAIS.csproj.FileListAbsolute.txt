@@ -1,0 +1,13 @@
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_ANIMAIS\POO_ANIMAIS\bin\Debug\netcoreapp3.1\POO_ANIMAIS.exe
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_ANIMAIS\POO_ANIMAIS\bin\Debug\netcoreapp3.1\POO_ANIMAIS.deps.json
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_ANIMAIS\POO_ANIMAIS\bin\Debug\netcoreapp3.1\POO_ANIMAIS.runtimeconfig.json
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_ANIMAIS\POO_ANIMAIS\bin\Debug\netcoreapp3.1\POO_ANIMAIS.runtimeconfig.dev.json
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_ANIMAIS\POO_ANIMAIS\bin\Debug\netcoreapp3.1\POO_ANIMAIS.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_ANIMAIS\POO_ANIMAIS\bin\Debug\netcoreapp3.1\POO_ANIMAIS.pdb
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_ANIMAIS\POO_ANIMAIS\obj\Debug\netcoreapp3.1\POO_ANIMAIS.csprojAssemblyReference.cache
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_ANIMAIS\POO_ANIMAIS\obj\Debug\netcoreapp3.1\POO_ANIMAIS.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_ANIMAIS\POO_ANIMAIS\obj\Debug\netcoreapp3.1\POO_ANIMAIS.AssemblyInfo.cs
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_ANIMAIS\POO_ANIMAIS\obj\Debug\netcoreapp3.1\POO_ANIMAIS.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_ANIMAIS\POO_ANIMAIS\obj\Debug\netcoreapp3.1\POO_ANIMAIS.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_ANIMAIS\POO_ANIMAIS\obj\Debug\netcoreapp3.1\POO_ANIMAIS.pdb
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_ANIMAIS\POO_ANIMAIS\obj\Debug\netcoreapp3.1\POO_ANIMAIS.genruntimeconfig.cache

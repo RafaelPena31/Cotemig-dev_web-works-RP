@@ -1,0 +1,10 @@
+:root {
+  font-size: calc(1vw + 1vh + 1.5vmin);
+}
+
+html,
+body {
+  scroll-behavior: smooth;
+  height: 100%;
+  margin: 0;
+}

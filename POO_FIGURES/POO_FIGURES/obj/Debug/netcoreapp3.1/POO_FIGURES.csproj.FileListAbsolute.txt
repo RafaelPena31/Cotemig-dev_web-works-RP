@@ -1,0 +1,13 @@
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_FIGURES\POO_FIGURES\bin\Debug\netcoreapp3.1\POO_FIGURES.exe
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_FIGURES\POO_FIGURES\bin\Debug\netcoreapp3.1\POO_FIGURES.deps.json
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_FIGURES\POO_FIGURES\bin\Debug\netcoreapp3.1\POO_FIGURES.runtimeconfig.json
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_FIGURES\POO_FIGURES\bin\Debug\netcoreapp3.1\POO_FIGURES.runtimeconfig.dev.json
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_FIGURES\POO_FIGURES\bin\Debug\netcoreapp3.1\POO_FIGURES.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_FIGURES\POO_FIGURES\bin\Debug\netcoreapp3.1\POO_FIGURES.pdb
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_FIGURES\POO_FIGURES\obj\Debug\netcoreapp3.1\POO_FIGURES.csprojAssemblyReference.cache
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_FIGURES\POO_FIGURES\obj\Debug\netcoreapp3.1\POO_FIGURES.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_FIGURES\POO_FIGURES\obj\Debug\netcoreapp3.1\POO_FIGURES.AssemblyInfo.cs
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_FIGURES\POO_FIGURES\obj\Debug\netcoreapp3.1\POO_FIGURES.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_FIGURES\POO_FIGURES\obj\Debug\netcoreapp3.1\POO_FIGURES.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_FIGURES\POO_FIGURES\obj\Debug\netcoreapp3.1\POO_FIGURES.pdb
+C:\Users\rafae\Documents\Project\COTEMIG\3 ANO\DEVWEB2\POO_FIGURES\POO_FIGURES\obj\Debug\netcoreapp3.1\POO_FIGURES.genruntimeconfig.cache
