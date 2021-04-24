@@ -1,6 +1,5 @@
-# 💻 Course Subject of Cotemig - Web Development 2
-## (Rafael Pena)
+# 💻 Web Development with .NET Subject
+## Technical Specialization of Web and Mobile Development
+### (Rafael Pena)
 
-**Content:** Example of my exercises done during my classes.
-
-
+Projects carried out on the Web Development with .NET subject in my technical specialization of web and mobile development
