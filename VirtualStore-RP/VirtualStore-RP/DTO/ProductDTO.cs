@@ -7,14 +7,12 @@ namespace VirtualStore_RP
 {
     public class ProductDTO
     {
-        private int id, stockQuantity, categoryID, supplierID;
+        private int id, stockQuantity, categoryID, providerID;
         private string name, description, photo;
         private double productValue;
 
         public int Id { get => id; set => id = value; }
         public string Photo { get => photo; set => photo = value; }
-        public int SupplierID { get => supplierID; set => supplierID = value; }
-        public double ProductValue { get => productValue; set => productValue = value; }
 
         public string Name
         {
@@ -60,6 +58,7 @@ namespace VirtualStore_RP
             }
             get { return this.stockQuantity; }
         }
+
         public int CategoryID
         {
             set { 
@@ -74,6 +73,37 @@ namespace VirtualStore_RP
             get { return this.categoryID; }
         }
 
+        public int ProviderID
+        {
+            set
+            {
+                if (value != 0)
+                {
+                    this.providerID = value;
+                }
+                else
+                {
+                    throw new Exception("Campo fornecedor obrigatório!");
+                }
+            }
+            get { return this.providerID; }
+        }
+
+        public double ProductValue
+        {
+            set
+            {
+                if (value != 0)
+                {
+                    this.productValue = value;
+                }
+                else
+                {
+                    throw new Exception("Campo valor do produto obrigatório!");
+                }
+            }
+            get { return this.productValue; }
+        }
 
     }
 }
