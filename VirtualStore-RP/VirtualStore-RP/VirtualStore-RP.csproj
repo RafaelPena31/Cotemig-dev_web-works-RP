@@ -71,6 +71,11 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BLL\AddressBLL.cs" />
+    <Compile Include="BLL\CategoryBLL.cs" />
+    <Compile Include="BLL\ClientBLL.cs" />
+    <Compile Include="BLL\ProductBLL.cs" />
+    <Compile Include="BLL\ProviderBLL.cs" />
     <Compile Include="DAL\MySqlDAL.cs" />
     <Compile Include="DTO\AddressDTO.cs" />
     <Compile Include="DTO\CategoryDTO.cs" />
@@ -89,7 +94,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="BLL\" />
     <Folder Include="IMG\" />
     <Folder Include="UI\" />
   </ItemGroup>
