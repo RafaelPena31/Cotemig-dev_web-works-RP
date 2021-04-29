@@ -1,0 +1,2 @@
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\VirtualStore-RP\VirtualStore-RP\obj\Debug\VirtualStore-RP.csprojAssemblyReference.cache
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\VirtualStore-RP\VirtualStore-RP\obj\Debug\VirtualStore-RP.csproj.CoreCompileInputs.cache
