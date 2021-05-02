@@ -68,7 +68,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="UI\adminCategory.aspx" />
+    <Content Include="UI\adminClient.aspx" />
+    <Content Include="UI\adminProduct.aspx" />
+    <Content Include="UI\adminProvider.aspx" />
+    <Content Include="UI\categoryRegister.aspx" />
+    <Content Include="UI\clientRegister.aspx" />
     <Content Include="UI\index.aspx" />
+    <Content Include="UI\login.aspx" />
+    <Content Include="UI\productRegister.aspx" />
+    <Content Include="UI\providerRegister.aspx" />
+    <Content Include="UI\searchProduct.aspx" />
+    <Content Include="UI\searchProvider.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -84,12 +95,89 @@
     <Compile Include="DTO\ProductDTO.cs" />
     <Compile Include="DTO\ProviderDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\adminCategory.aspx.cs">
+      <DependentUpon>adminCategory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\adminCategory.aspx.designer.cs">
+      <DependentUpon>adminCategory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\adminClient.aspx.cs">
+      <DependentUpon>adminClient.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\adminClient.aspx.designer.cs">
+      <DependentUpon>adminClient.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\adminProduct.aspx.cs">
+      <DependentUpon>adminProduct.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\adminProduct.aspx.designer.cs">
+      <DependentUpon>adminProduct.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\adminProvider.aspx.cs">
+      <DependentUpon>adminProvider.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\adminProvider.aspx.designer.cs">
+      <DependentUpon>adminProvider.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\categoryRegister.aspx.cs">
+      <DependentUpon>categoryRegister.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\categoryRegister.aspx.designer.cs">
+      <DependentUpon>categoryRegister.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\clientRegister.aspx.cs">
+      <DependentUpon>clientRegister.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\clientRegister.aspx.designer.cs">
+      <DependentUpon>clientRegister.aspx</DependentUpon>
+    </Compile>
     <Compile Include="UI\index.aspx.cs">
       <DependentUpon>index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="UI\index.aspx.designer.cs">
       <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\login.aspx.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\login.aspx.designer.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\productRegister.aspx.cs">
+      <DependentUpon>productRegister.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\productRegister.aspx.designer.cs">
+      <DependentUpon>productRegister.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\providerRegister.aspx.cs">
+      <DependentUpon>providerRegister.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\providerRegister.aspx.designer.cs">
+      <DependentUpon>providerRegister.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\searchProduct.aspx.cs">
+      <DependentUpon>searchProduct.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\searchProduct.aspx.designer.cs">
+      <DependentUpon>searchProduct.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UI\searchProvider.aspx.cs">
+      <DependentUpon>searchProvider.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UI\searchProvider.aspx.designer.cs">
+      <DependentUpon>searchProvider.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

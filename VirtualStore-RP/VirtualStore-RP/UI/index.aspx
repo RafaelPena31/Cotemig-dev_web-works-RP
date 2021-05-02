@@ -12,14 +12,14 @@
     <form id="form1" runat="server" class="d-flex align-items-center flex-column">
         <nav class="navbar navbar-expand-lg navbar-dark bg-light w-100 bg-dark">
             <div class="container-fluid">
-                <a class="navbar-brand" href="#">VirtualStore</a>
+                <asp:HyperLink CssClass="navbar-brand" ID="logo" NavigateUrl="~/UI/index.aspx" Text="VirtualStore" runat="server"></asp:HyperLink>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <asp:HyperLink ID="IndexRedirect" CssClass="nav-link" NavigateUrl="~/UI/index.aspx" Text="Tela Inicial" runat="server"></asp:HyperLink>
+                            <asp:HyperLink ID="IndexRedirect" CssClass="nav-link active" NavigateUrl="~/UI/index.aspx" Text="Tela Inicial" runat="server"></asp:HyperLink>
                         </li>
                         <li class="nav-item">
                             <asp:HyperLink ID="LoginRedirect" CssClass="nav-link" NavigateUrl="~/UI/login.aspx" Text="Login de acesso" runat="server"></asp:HyperLink>
@@ -34,7 +34,7 @@
 
         <nav class="position-fixed bottom-0">
             <div class="container-fluid">
-                <p class="navbar-brand">Copyright &copy; Desenvolvido por Rafael Pena. Todos os direitos reservados.</p>
+                <p class="navbar-brand">Copyright &copy; Desenvolvido por <b>Rafael Pena</b>. Todos os direitos reservados.</p>
             </div>
         </nav>
     </form>

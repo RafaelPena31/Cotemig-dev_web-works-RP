@@ -29,6 +29,33 @@ namespace VirtualStore_RP.BLL
             connection.ExecutionSQL(sql);
         }
 
+        public Boolean Authenticator(string email, string pass)
+        {
+            string sql = string.Format($@"SELECT * FROM client WHERE email = '{email}' AND password = '{pass}';");
+            DataTable dt = connection.QueryExecution(sql);
+            if (dt.Rows.Count == 1)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        public string RecoverPass(string email)
+        {
+            string sql = string.Format($@"SELECT * FROM client WHERE email = '{email}';");
+            DataTable dt = connection.QueryExecution(sql);
+            if(dt.Rows.Count == 1)
+            {
+                return dt.Rows[0]["password"].ToString();
+            } else
+            {
+                return "NOT_FOUND";
+            }
+        }
+
         public DataTable ConsultID(int id)
         {
             string sql = string.Format($@"SELECT * FROM client WHERE id = '{id}';");
