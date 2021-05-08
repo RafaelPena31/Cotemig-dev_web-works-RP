@@ -38,9 +38,10 @@ namespace VirtualStore_RP
                 Connect();
                 MySqlCommand command = new MySqlCommand(sql, connection);
                 command.ExecuteNonQuery();
-            } catch(Exception error)
+            }
+            catch (Exception error)
             {
-                throw new Exception("Não foi possível executar a instruçã na base de dados. Erro: " + error.Message);
+                throw new Exception("Não foi possível executar a instrução na base de dados. Erro: " + error.Message);
             }
             finally
             {
@@ -57,7 +58,8 @@ namespace VirtualStore_RP
                 MySqlDataAdapter data = new MySqlDataAdapter(sql, connection);
                 data.Fill(dt);
                 return dt;
-            } catch(Exception error)
+            }
+            catch (Exception error)
             {
                 throw new Exception("Não foi possível executar a consulta no banco de dados. Erro:" + error.Message);
             }

@@ -47,10 +47,26 @@ namespace VirtualStore_RP.BLL
         {
             string sql = string.Format($@"SELECT * FROM client WHERE email = '{email}';");
             DataTable dt = connection.QueryExecution(sql);
-            if(dt.Rows.Count == 1)
+            if (dt.Rows.Count == 1)
             {
                 return dt.Rows[0]["password"].ToString();
-            } else
+            }
+            else
+            {
+                return "NOT_FOUND";
+            }
+        }
+
+        public string ReturnID(string email)
+        {
+            string sql = string.Format($@"SELECT id FROM client WHERE email = '{email}';");
+            DataTable dt = connection.QueryExecution(sql);
+            if (dt.Rows.Count == 1)
+            {
+                Console.WriteLine(dt.Rows[0]["id"].ToString());
+                return dt.Rows[0]["id"].ToString();
+            }
+            else
             {
                 return "NOT_FOUND";
             }

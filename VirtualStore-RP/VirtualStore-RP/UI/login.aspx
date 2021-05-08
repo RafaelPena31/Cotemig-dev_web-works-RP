@@ -10,9 +10,9 @@
 </head>
 <body>
     <form id="form1" runat="server" class="d-flex align-items-center flex-column">
-        <nav class="navbar navbar-expand-lg navbar-dark bg-light w-100 bg-dark">
+        <nav class="mb-3 navbar navbar-expand-lg navbar-dark bg-light w-100 bg-dark">
             <div class="container-fluid">
-                <asp:HyperLink CssClass="navbar-brand" ID="logo" NavigateUrl="~/UI/index.aspx" Text="VirtualStore" runat="server"></asp:HyperLink>
+                <asp:HyperLink CssClass="navbar-brand" ID="logo" NavigateUrl="~/UI/index.aspx" Text="VirtualStore - Entre agora" runat="server"></asp:HyperLink>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -41,9 +41,12 @@
                 <asp:Label for="txtLoginPass" class="form-label" runat="server" Text="Senha:"></asp:Label>
                 <asp:TextBox type="password" class="form-control" ID="txtLoginPass" runat="server"></asp:TextBox>
             </div>
-            <div class="d-flex justify-content-between">
+            <div class="mb-3 d-flex justify-content-between">
                 <asp:Button type="button" ID="btnForgotPass" CssClass="btn btn-secondary" Text="Esqueci a senha" runat="server" OnClick="btnForgotPass_Click"></asp:Button>
                 <asp:Button type="button" ID="btnLogin" CssClass="btn btn-primary" Text="Entrar" runat="server" OnClick="btnLogin_Click"></asp:Button>
+            </div>
+            <div class="mb-3">
+                <asp:Button type="button" ID="btnRegisterClient" CssClass="btn btn-primary w-100" Text="Quero me cadastrar" runat="server" OnClick="btnRegisterClient_Click"></asp:Button>
             </div>
         </div>
 

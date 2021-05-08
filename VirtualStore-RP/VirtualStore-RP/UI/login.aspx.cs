@@ -36,7 +36,6 @@ namespace VirtualStore_RP.UI
             try
             {
                 clientDTO.Email = txtLoginEmail.Text;
-                clientDTO.Password = txtLoginPass.Text;
                 string pass = clientBLL.RecoverPass(clientDTO.Email);
                 if (pass != "NOT_FOUND")
                 {
@@ -77,6 +76,11 @@ namespace VirtualStore_RP.UI
             {
                 ErrorMessage(error.Message);
             }
+        }
+
+        protected void btnRegisterClient_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("clientRegister.aspx");
         }
     }
 }
