@@ -81,7 +81,7 @@
 
                     <asp:TemplateField HeaderText="Foto">
                         <ItemTemplate>
-                            <asp:Image ID="labelFoto" runat="server" ImageUrl='<%# "~/IMG/PROFILE/" + Eval("foto")%>' Width="150" Height="190"></asp:Image>
+                            <asp:Image ID="labelFoto" runat="server" ImageUrl='<%# "~/IMG/" + Eval("foto")%>' Width="150" Height="190"></asp:Image>
                         </ItemTemplate>
                         <EditItemTemplate>
                             <asp:FileUpload ID="fileupFoto" runat="server"></asp:FileUpload>

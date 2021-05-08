@@ -68,7 +68,7 @@ namespace Workshop_Tecnologia.UI
 
                 if (profileImage.HasFile)
                 {
-                    String localImagem = Server.MapPath("~/IMG/PROFILE/" + profileImage.FileName);
+                    String localImagem = Server.MapPath("~/IMG/" + profileImage.FileName);
                     profileImage.SaveAs(localImagem);
                     inscricaoDTO.Foto = profileImage.FileName.ToString();
                 }

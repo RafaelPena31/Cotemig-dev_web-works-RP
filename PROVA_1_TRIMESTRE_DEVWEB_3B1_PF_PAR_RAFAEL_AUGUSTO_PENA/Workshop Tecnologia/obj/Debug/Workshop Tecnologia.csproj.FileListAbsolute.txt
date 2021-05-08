@@ -79,3 +79,84 @@ C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA-1-TRIMESTRE-DEVWEB-
 C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA-1-TRIMESTRE-DEVWEB-3B1-PF-PAR-RAFAEL-AUGUSTO-PENA\Workshop Tecnologia\bin\roslyn\vbc.rsp
 C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA-1-TRIMESTRE-DEVWEB-3B1-PF-PAR-RAFAEL-AUGUSTO-PENA\Workshop Tecnologia\bin\roslyn\VBCSCompiler.exe
 C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA-1-TRIMESTRE-DEVWEB-3B1-PF-PAR-RAFAEL-AUGUSTO-PENA\Workshop Tecnologia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\Workshop Tecnologia.dll.config
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\Workshop Tecnologia.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\Workshop Tecnologia.pdb
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\csc.exe
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\csc.exe.config
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\csc.rsp
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\csi.exe
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\csi.exe.config
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\csi.rsp
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.AppContext.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.Console.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.IO.Compression.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.Net.Http.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.ValueTuple.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\vbc.exe
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\vbc.exe.config
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\vbc.rsp
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\VBCSCompiler.exe
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\BouncyCastle.Crypto.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\Google.Protobuf.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\K4os.Compression.LZ4.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\K4os.Hash.xxHash.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\MySql.Data.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\System.Buffers.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\System.Memory.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\System.Numerics.Vectors.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\Ubiety.Dns.Core.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\Zstandard.Net.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\Google.Protobuf.pdb
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\Google.Protobuf.xml
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\K4os.Compression.LZ4.xml
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\K4os.Hash.xxHash.xml
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\MySql.Data.xml
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\System.Buffers.xml
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\System.Memory.xml
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\System.Numerics.Vectors.xml
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\obj\Debug\Workshop Tecnologia.csprojAssemblyReference.cache
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\obj\Debug\Workshop Tecnologia.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\obj\Debug\Workshop Tecnologia.csproj.CopyComplete
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\obj\Debug\Workshop Tecnologia.dll
+C:\Users\rafae\Documents\Project\COTEMIG\3_ANO\DEVWEB2\PROVA_1_TRIMESTRE_DEVWEB_3B1_PF_PAR_RAFAEL_AUGUSTO_PENA\Workshop Tecnologia\obj\Debug\Workshop Tecnologia.pdb

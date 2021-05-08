@@ -46,7 +46,7 @@ namespace Workshop_Tecnologia.UI
                 inscricaoDTO.Email = email.Text;
                 inscricaoDTO.Foto = foto.FileName.ToString();
                 inscricaoBLL.Insert(inscricaoDTO);
-                string localFoto = Server.MapPath("/IMG/PROFILE/" + inscricaoDTO.Foto);
+                string localFoto = Server.MapPath("/IMG/" + inscricaoDTO.Foto);
                 foto.SaveAs(localFoto);
                 string successMsg = "Inscrição cadastrada com sucesso!";
                 SuccessMessage(successMsg);
