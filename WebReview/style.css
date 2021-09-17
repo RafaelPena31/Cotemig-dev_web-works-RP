@@ -1,0 +1,14 @@
+.title,
+article:first-of-type {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+  color: rgb(107, 107, 107);
+}
+
+#image {
+  width: 50%;
+  height: 50%;
+}

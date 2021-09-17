@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>MVC - 11901322</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <nav class="navbar navbar-light bg-light">
+          <div class="container-fluid">
+            <span class="navbar-brand mb-0 h1">
+              <h1>Navbar</h1>
+            </span>
+          </div>
+        </nav>
+      </header>
+
+      <article>
+        <h2 class="title">Introdução ao MVC</h2>
+        <p>
+          Na fase de Projeto começamos a nos preocupar com a arquitetura da
+          aplicação. Damos realmente valor à tecnologia, diferente da fase de
+          análise onde ainda estamos esboçando o problema a ser resolvido.
+          Definimos a plataforma e como os componentes do sistema se
+          organizarão. Evidentemente que os requisitos ainda são importantes,
+          pois, por exemplo, um sistema Web ou então uma aplicação de tempo real
+          deverá influenciar na arquitetura.
+        </p>
+        <p>
+          Mesmo não possuindo uma definição consensual, muitos autores definem a
+          arquitetura de software de um sistema computacional como a suas
+          estruturas, que são compostas de elementos de software, de
+          propriedades externamente visíveis de seus componentes e do
+          relacionamento entre eles. Ou seja, a arquitetura define os elementos
+          de software e como eles interagem entre si.
+        </p>
+        <p>
+          Para realizar a arquitetura de uma aplicação não basta estar num dia
+          inspirado ou acordar com bastante vontade de realizar uma arquitetura,
+          muito pelo contrário, precisamos de bastante experiência em diferentes
+          organizações, diferentes tipos de projetos, conhecimentos de
+          diferentes arquiteturas etc. A experiência prática ainda é a melhor
+          solução, pois o trabalho em equipe também é uma forma excelente de
+          definir uma arquitetura. Muitas vezes, alguns programadores possuem
+          outras experiências ou conhecimentos e a troca dessa experiência é
+          sempre válida, mesmo quando temos um arquiteto bastante experiente na
+          equipe.
+        </p>
+        <p>
+          A arquitetura de um sistema tem diversos elementos como: elementos
+          utilitários, de interação, elementos que fazem parte do domínio do
+          problema, elementos de conexão, de persistência etc. Dessa forma, na
+          arquitetura sempre definimos os seus elementos que serão utilizados no
+          software e como eles se conectam. Uma arquitetura complexa exige mais
+          tempo para desenvolvimento, porém, através de geração automática de
+          aplicações torna-se mais produtivo. Por isso algumas equipes definem
+          um framework para uma determinada aplicação e assim podemos utilizar
+          muitas coisas pré-prontas que facilitam o desenvolvimento.
+        </p>
+        <p>
+          No entanto, alguns padrões arquiteturais já foram pensados para
+          resolver problemas corriqueiros. Alguns projetos ou organizações
+          combinam esses padrões arquiteturais, pois atendem melhor às suas
+          necessidades ou deram certo para o seu tipo de aplicação. Por isso é
+          sempre interessante entender as características básicas de cada um dos
+          estilos e escolher ou combinar aqueles que atendem melhor às
+          necessidades de um projeto específico. Isso tudo deve ser feito após
+          uma análise do sistema a ser desenvolvido. Entre as arquiteturas
+          existentes temos: Cliente-servidor, P2P - Peer to Peer, Dados
+          compartilhados, Máquina virtual, Camadas, MVC e muitos outros.
+        </p>
+
+        <br />
+
+        <img
+          src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2020/06/diagramaMVC.png"
+          alt="mvc"
+          id="image"
+        />
+      </article>
+
+      <hr />
+
+      <article>
+        <h2 class="title">Benefícios</h2>
+        <ul class="list-group">
+          <li class="list-group-item">Aumento de produtividade</li>
+          <li class="list-group-item">Uniformidade na estrutura do software</li>
+          <li class="list-group-item">Redução de complexidade no código</li>
+          <li class="list-group-item">
+            As aplicações ficam mais fáceis de manter
+          </li>
+          <li class="list-group-item">Facilita a documentação</li>
+          <li class="list-group-item">
+            Estabelece um vocabulário comum de projeto entre desenvolvedores
+          </li>
+          <li class="list-group-item">
+            Permite a reutilização de módulos do sistema em outros sistemas
+          </li>
+          <li class="list-group-item">
+            É considerada uma boa prática utilizar um conjunto de padrões para
+            resolver problemas maiores que, sozinhos, não conseguiriam
+          </li>
+          <li class="list-group-item">
+            Ajuda a construir softwares confiáveis com arquiteturas testadas
+          </li>
+          <li class="list-group-item">
+            Reduz o tempo de desenvolvimento de um projeto
+          </li>
+        </ul>
+        <a href="https://www.devmedia.com.br/introducao-ao-padrao-mvc/29308"
+          >Saiba mais clicando aqui</a
+        >
+      </article>
+
+      <article>
+        <h2 class="title">Newsletter</h2>
+        <p>Gostaria de se inscrever em sua newsletter? Preencha o forms</p>
+
+        <form action="#" method="post">
+          <div class="mb-3">
+            <label for="nome" class="form-label">Nome</label>
+            <input
+              type="text"
+              class="form-control"
+              id="nome"
+              placeholder="nome"
+            />
+          </div>
+          <div class="mb-3">
+            <label for="email" class="form-label">Email</label>
+            <input
+              type="email"
+              class="form-control"
+              id="email"
+              placeholder="name@example.com"
+            />
+          </div>
+          <div class="mb-3">
+            <label for="idade" class="form-label">Idade</label>
+            <input
+              type="number"
+              class="form-control"
+              id="idade"
+              placeholder="00"
+            />
+          </div>
+          <div class="mb-3">
+            <label for="estado" class="form-label">Estado</label>
+            <input
+              type="email"
+              class="form-control"
+              id="estado"
+              placeholder="MG"
+            />
+          </div>
+
+          <button type="button" class="btn btn-primary">Salvar</button>
+        </form>
+      </article>
+
+      <footer class="bg-light text-center text-lg-start">
+        <div
+          class="text-center p-3"
+          style="background-color: rgba(0, 0, 0, 0.2)"
+        >
+          © 2020 Copyright:
+          <a class="text-dark" href="https://mdbootstrap.com/"
+            >Rafael Augusto Pena Pereira Mesquita</a
+          >
+        </div>
+      </footer>
+    </div>
+  </body>
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ"
+    crossorigin="anonymous"
+  ></script>
+</html>
