@@ -1,0 +1,24 @@
+{
+  "museus": [
+    {
+      "id": 1,
+      "nome": "Museu - Arte dos sonhos",
+      "coord": {
+        "lat": "0",
+        "long": "0"
+      },
+      "tema": "Arte moderna",
+      "numeroItens": 50
+    },
+    {
+      "id": 2,
+      "nome": "Museu - Arte dos sonhos 2",
+      "coord": {
+        "lat": "0",
+        "long": "0"
+      },
+      "tema": "Arte moderna",
+      "numeroItens": 50
+    }
+  ]
+}
