@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "nome": "Mini Boneca - Polly Pocket - Clínica Veterinária da Polly - Mattel",
+      "descricao": "Explore um mundo de diversão com o conjunto Polly Pocket™ Clínica Veterinária™! Atividades divertidas e acessórios permitem que as crianças inventem histórias com seus pets! Com um jaleco branco de veterinária, um vestido e sapatos confortáveis, a boneca Polly™ (7,5 cm) está pronta para cuidar dos seus pacientes peludos e tem todos os acessórios para garantir que recebem a atenção que precisam! Há uma porta para animais de estimação e uma janela que gira! Pese os pacientes na balança (os animais podem ser colocados na balança), use a área de exame para fazer check-ups, faça 'raios-x' com a máquina de raios-x e coloque animais no mini elevador que os eleva para uma área de brincadeira com um escorregador. A boneca Veterinária Polly™ examina os seus pacientes, e parece que eles estão felizes e saudáveis! O conjunto também inclui 5 figuras de animais de estimação (com guloseimas), 2 suportes (animais de estimação cabem dentro), uma cama e acessórios para exames! O conjunto dobra-se de forma compacta para poder guardar e levar para qualquer lugar com facilidade. É um excelente presente para as crianças a partir de 4 anos, especialmente aquelas que amam animais, adoram cuidar e querem ser veterinários! Cores e decorações podem variar.",
+      "idadeRecomendada": "4",
+      "valor": "269.99",
+      "id": 1
+    },
+    {
+      "nome": "Figura de Ação Articulado - Masters Of The Universe - Faker - 14 cm - Mattel",
+      "descricao": "Nunca foi tão divertido ser fã dos Masters of the Universe®! Seja para os fãs de longa data como para uma nova geração de crianças que amam ação, está na hora de viver as mais espetaculares aventuras com He-Man®, Esqueleto®, os segredos do Castelo de Grayskull® e muito mais! As figuras desta coleção têm 14 cm de altura e 16 articulações móveis, por isso são altamente articuladas para a imaginação e ação voltadas à diversão e estilo dos Masters of the Universe®! Os fãs de longa data apreciarão tanto os detalhes de design vintage que homenageiam o legado desta querida franquia de aventura como as atualizações de design que acrescentam um visual emocionante às peças clássicas. Cada figura inclui um acessório de batalha e uma minirrevista em quadrinhos que explora novas histórias e apresenta novos heróis, vilões e aliados na eterna batalha entre o bem e o mal! Os fãs vão adorar a clássica embalagem retrô estilizada. Fique de olho nos novos personagens e comece uma coleção para brincar e trocar. Cada produto é vendido separadamente e sujeito à disponibilidade. As cores e as decorações podem variar.",
+      "idadeRecomendada": "10",
+      "valor": "95.99",
+      "id": 2
+    },
+    {
+      "nome": "Piano do Cachorrinho - Laugh & Learn - Fisher-Price",
+      "descricao": "Com quatro formas de jogar, o Piano do Cachorrinho - Laugh & Learn - Fisher-Price mantém o seu mini-músico ocupado a “compor” e a aprender durante todo o tempo de jogo. Como seu bebê pressiona as teclas do piano iluminado, eles são recompensados com notas de piano real, ou com deliciosos sons de pato, sons de vaca tonta, ou canções lúdicas e frases sobre números, cores e formas! E com um identificador de fácil alcance, você pode levar a diversão musical boba onde quer que você e seu bebê forem",
+      "idadeRecomendada": "3",
+      "valor": "172.99",
+      "id": 3
+    },
+    {
+      "nome": "Mini Figura - Disney Pixar - Luca - Alberto Criatura do Mar - Mattel",
+      "descricao": "Ciao da cidade litorânea de Portorosso, Itália! Em Luca, da Disney e da Pixar, um jovem monstro marinho curioso está desfrutando de um verão inesquecível de descobertas. Esta figura mostra Luca em sua forma de monstro marinho e tem nadadeiras que mudam de cor! Sua cabeça, torso, braços e pernas são removíveis e podem ser trocados com as peças humanas disponíveis no pacote Scooter Build & Crash, vendido separadamente, para representar as cenas transformacionais do filme. É um grande presente para os fãs da Pixar, especialmente os fãs de Luca. Inclui uma figura de personagem.",
+      "idadeRecomendada": "10",
+      "valor": "109.99",
+      "id": 4
+    },
+    {
+      "nome": "Lançador de Dardos - Nerf Ultra - Pharaoh - Hasbro",
+      "descricao": "LANÇADORES DE DARDOS NERF FANTÁSTICOS: Com os lançadores Nerf Ultra, os jogadores experimentarão lançamentos de longuíssima distância, precisão e velocidade, graças ao design avançado, para alcançar altos níveis de acerto na aventura; O tambor para 6 dardos se abre por trás, facilitando à pessoa recarregar mais rapidamente. Compatível apenas com dardos Nerf Ultra; Inclui 6 revolucionários dardos Nerf Ultra com uma inovadora ponta, tecnologia de voo Aerofin e espuma leve Nerf Ultra. Compatível apenas com lançadores Nerf Ultra;",
+      "idadeRecomendada": "14",
+      "valor": "499.99",
+      "id": 5
+    }
+  ]
+}
