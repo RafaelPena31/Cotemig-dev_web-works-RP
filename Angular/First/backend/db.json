@@ -1,18 +1,18 @@
 {
-  "cartoes": [
+  "notaFiscal": [
     {
-      "id": 1,
-      "nome": "Rafael Pena",
-      "numero": "0000 0000 0000 0000",
-      "validade": "11/31",
-      "codigo": "000"
-    },
-    {
-      "nome": "RAFAEL AUGUSTO PENA PEREIRA MESQUITA",
-      "numero": "0000 0000 0000 0000",
-      "validade": "01/35",
+      "nome": "Makita - Serrote",
+      "valor": "169.99",
+      "categoria": "Ferramentas",
       "codigo": "301",
       "id": 2
+    },
+    {
+      "nome": "Makita - Martelo",
+      "valor": "55.70",
+      "categoria": "Ferramentas",
+      "codigo": "203",
+      "id": 3
     }
   ]
 }

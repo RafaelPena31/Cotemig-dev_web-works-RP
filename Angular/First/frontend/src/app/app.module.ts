@@ -25,6 +25,8 @@ import { HeaderComponent } from "./components/template/header/header.component";
 import { NavComponent } from "./components/template/nav/nav.component";
 import { HomeComponent } from "./views/home/home.component";
 import { PaymentComponent } from "./views/payment/payment.component";
+import { PaymentDeleteComponent } from './components/payment/payment-delete/payment-delete.component';
+import { PaymentUpdateComponent } from './components/payment/payment-update/payment-update.component';
 
 @NgModule({
   declarations: [
@@ -36,6 +38,8 @@ import { PaymentComponent } from "./views/payment/payment.component";
     PaymentComponent,
     PaymentCreateComponent,
     PaymentReadComponent,
+    PaymentDeleteComponent,
+    PaymentUpdateComponent,
   ],
   imports: [
     BrowserModule,

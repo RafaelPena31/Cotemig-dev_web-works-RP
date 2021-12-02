@@ -8,7 +8,7 @@ import { Payment } from "./payment.model";
   providedIn: "root",
 })
 export class PaymentService {
-  baseUrl = "http://localhost:3001/cartoes";
+  baseUrl = "http://localhost:3001/notaFiscal";
   constructor(private snackBar: MatSnackBar, private http: HttpClient) {}
 
   showMessage(msg: string, isError: boolean = false): void {
@@ -26,5 +26,20 @@ export class PaymentService {
 
   read(): Observable<Payment[]> {
     return this.http.get<Payment[]>(this.baseUrl);
+  }
+
+  readById(id: number): Observable<Payment> {
+    const url = `${this.baseUrl}/${id}`;
+    return this.http.get<Payment>(url);
+  }
+
+  update(payment: Payment): Observable<Payment> {
+    const url = `${this.baseUrl}/${payment.id}`;
+    return this.http.put<Payment>(url, payment);
+  }
+
+  delete(id: number): Observable<Payment> {
+    const url = `${this.baseUrl}/${id}`;
+    return this.http.delete<Payment>(url);
   }
 }

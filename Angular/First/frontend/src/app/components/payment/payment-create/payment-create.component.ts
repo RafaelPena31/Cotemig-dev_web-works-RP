@@ -1,7 +1,7 @@
 import { Component, OnInit } from "@angular/core";
 import { Router } from "@angular/router";
-import { PaymentService } from "../payment.service";
 import { Payment } from "../payment.model";
+import { PaymentService } from "../payment.service";
 
 @Component({
   selector: "app-payment-create",
@@ -11,8 +11,8 @@ import { Payment } from "../payment.model";
 export class PaymentCreateComponent implements OnInit {
   payment: Payment = {
     nome: "",
-    numero: 0,
-    validade: "",
+    valor: 0,
+    categoria: "",
     codigo: 0,
   };
 

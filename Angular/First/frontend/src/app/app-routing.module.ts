@@ -1,10 +1,11 @@
 import { NgModule } from "@angular/core";
 import { RouterModule, Routes } from "@angular/router";
-
+import { PaymentCreateComponent } from "./components/payment/payment-create/payment-create.component";
+import { PaymentDeleteComponent } from "./components/payment/payment-delete/payment-delete.component";
+import { PaymentUpdateComponent } from "./components/payment/payment-update/payment-update.component";
 //Importação dos componentes para conteúdo
 import { HomeComponent } from "./views/home/home.component";
 import { PaymentComponent } from "./views/payment/payment.component";
-import { PaymentCreateComponent } from "./components/payment/payment-create/payment-create.component";
 
 const routes: Routes = [
   {
@@ -17,7 +18,15 @@ const routes: Routes = [
   },
   {
     path: "payments/create",
-    component: PaymentCreateComponent ,
+    component: PaymentCreateComponent,
+  },
+  {
+    path: "payments/update/:id",
+    component: PaymentUpdateComponent,
+  },
+  {
+    path: "payments/delete/:id",
+    component: PaymentDeleteComponent,
   },
 ];
 

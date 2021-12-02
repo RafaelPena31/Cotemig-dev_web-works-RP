@@ -1,28 +1,42 @@
 <mat-card>
-  <mat-card-title>Novo Pagamento</mat-card-title>
+  <mat-card-title>Nova Nota Fiscal</mat-card-title>
   <form>
-      <mat-form-field>
-          <input matInput placeholder="Nome"
-              [(ngModel)]="payment.nome" name="nome">
-      </mat-form-field>
-      <mat-form-field>
-          <input matInput placeholder="Numero (R$)"
-              [(ngModel)]="payment.numero" name="numero">
-      </mat-form-field>
-      <mat-form-field>
-        <input matInput placeholder="Validade"
-            [(ngModel)]="payment.validade" name="validade">
+    <mat-form-field>
+      <input
+        matInput
+        placeholder="Nome"
+        [(ngModel)]="payment.nome"
+        name="nome"
+      />
     </mat-form-field>
     <mat-form-field>
-        <input matInput placeholder="Código"
-            [(ngModel)]="payment.codigo" name="codigo">
+      <input
+        matInput
+        placeholder="valor (R$)"
+        [(ngModel)]="payment.valor"
+        name="valor"
+      />
+    </mat-form-field>
+    <mat-form-field>
+      <input
+        matInput
+        placeholder="categoria"
+        [(ngModel)]="payment.categoria"
+        name="categoria"
+      />
+    </mat-form-field>
+    <mat-form-field>
+      <input
+        matInput
+        placeholder="Código"
+        [(ngModel)]="payment.codigo"
+        name="codigo"
+      />
     </mat-form-field>
   </form>
   <button mat-raised-button (click)="createPayment()" color="primary">
-      Salvar
+    Salvar
   </button>
-  
-  <button mat-raised-button (click)="cancel()">
-      Cancelar
-  </button>
+
+  <button mat-raised-button (click)="cancel()">Cancelar</button>
 </mat-card>

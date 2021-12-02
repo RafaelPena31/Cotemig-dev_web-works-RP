@@ -9,7 +9,7 @@ import { PaymentService } from "../payment.service";
 })
 export class PaymentReadComponent implements OnInit {
   payments: Payment[];
-  displayedColumns = ["id", "nome", "numero", "validade"];
+  displayedColumns = ["id", "nome", "valor", "categoria", "action"];
 
   constructor(private paymentService: PaymentService) {
     this.payments = [];
